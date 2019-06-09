@@ -1,0 +1,6 @@
+framework module RxSwiftBook {
+  umbrella header "RxSwiftBook-umbrella.h"
+
+  export *
+  module * { export * }
+}

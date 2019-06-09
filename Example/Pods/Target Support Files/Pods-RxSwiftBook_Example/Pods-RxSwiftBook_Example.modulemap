@@ -1,0 +1,6 @@
+framework module Pods_RxSwiftBook_Example {
+  umbrella header "Pods-RxSwiftBook_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
