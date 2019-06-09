@@ -29,9 +29,9 @@
 
 /* Begin PBXFileReference section */
 		072BF79735F3256A62D331F5 /* Pods-RxSwiftBook_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxSwiftBook_Example.release.xcconfig"; path = "Target Support Files/Pods-RxSwiftBook_Example/Pods-RxSwiftBook_Example.release.xcconfig"; sourceTree = "<group>"; };
-		0B86932F46C77F046872885C /* RxSwiftBook.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = RxSwiftBook.podspec; path = ../RxSwiftBook.podspec; sourceTree = "<group>"; };
+		0B86932F46C77F046872885C /* RxSwiftBook.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = RxSwiftBook.podspec; path = ../RxSwiftBook.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		1607E08FCD04829A4BE1F625 /* Pods-RxSwiftBook_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxSwiftBook_Example.debug.xcconfig"; path = "Target Support Files/Pods-RxSwiftBook_Example/Pods-RxSwiftBook_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		33276993FA9655F5B2C09401 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		33276993FA9655F5B2C09401 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* RxSwiftBook_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RxSwiftBook_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		8948DBBF97DC620E144CD205 /* Pods_RxSwiftBook_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RxSwiftBook_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF0D05110117040769C1CA6A /* Pods-RxSwiftBook_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxSwiftBook_Tests.release.xcconfig"; path = "Target Support Files/Pods-RxSwiftBook_Tests/Pods-RxSwiftBook_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		D2BF2B57785CB9473BCF07BD /* Pods_RxSwiftBook_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RxSwiftBook_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D83195C757033B76215B469C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		D83195C757033B76215B469C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,7 +156,6 @@
 				84FB38E860A93BE5026A432E /* Pods-RxSwiftBook_Tests.debug.xcconfig */,
 				CF0D05110117040769C1CA6A /* Pods-RxSwiftBook_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
