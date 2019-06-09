@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/1058695900@qq.com/RxSwiftBook'
+  s.homepage         = 'https://github.com/moduleDemo/RxSwiftBook.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '1058695900@qq.com' => '1058695900@qq.com' }
@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'RxSwiftBook/Classes/**/*'
-  
+  s.swift_versions = '4.2'
   # s.resource_bundles = {
   #   'RxSwiftBook' => ['RxSwiftBook/Assets/*.png']
   # }
